@@ -1,0 +1,58 @@
+{
+  "dailyPosts": [
+    {
+      "username": "Lukas Grey",
+      "postTime": "2 hours ago",
+      "postImage": "path/to/image1.jpg",
+      "postCaption": "Midtjylland dump from last week",
+      "likes": 172,
+      "comments": 34
+    },
+    {
+      "username": "Sofie Lund",
+      "postTime": "3 hours ago",
+      "postImage": "path/to/image2.jpg",
+      "postCaption": "Amazing sunset at the beach",
+      "likes": 150,
+      "comments": 25
+    }
+  ],
+  "articles": [
+    {
+      "author": "Nikolaj Jepsen",
+      "readTime": "5 min read",
+      "articleTitle": "A Day in Gothenburg",
+      "articleSnippet": "Wandering through Gothenburg's cobblestone streets felt like a dream.",
+      "articleImage": "path/to/article1.jpg",
+      "likes": 176,
+      "comments": 65
+    },
+    {
+      "author": "Magnus Sørensen",
+      "readTime": "8 min read",
+      "articleTitle": "Exploring Oslo's Hidden Gems",
+      "articleSnippet": "Oslo has so much to offer beyond the typical tourist spots.",
+      "articleImage": "path/to/article2.jpg",
+      "likes": 200,
+      "comments": 80
+    }
+  ],
+  "discussions": [
+    {
+      "author": "Freya Nilsen",
+      "postTime": "2 hours ago",
+      "discussionTitle": "Best Route for a Scenic Drive",
+      "discussionContent": "What's the best route for a scenic drive through Norway?",
+      "likes": 172,
+      "comments": 34
+    },
+    {
+      "author": "Maja Johansen",
+      "postTime": "3 hours ago",
+      "discussionTitle": "Cozy Cabin in Sweden",
+      "discussionContent": "Does anyone know where this cozy cabin is located?",
+      "likes": 190,
+      "comments": 55
+    }
+  ]
+}
